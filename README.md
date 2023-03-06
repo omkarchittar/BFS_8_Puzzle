@@ -1,4 +1,4 @@
-# **ENPM662 Project 1**
+# **BFS 8 Puzzle**
 
 ## **File Tree**
 
